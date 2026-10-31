@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+plotly>=5.20
+pydeck>=0.9
+folium>=0.16
+streamlit-folium>=0.20
+xgboost>=2.0
+joblib>=1.3
